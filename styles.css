@@ -461,7 +461,7 @@ a {
 .carousel {
     position: relative;
     display: flex;
-    height: 600px; /* Approximate height */
+    height: 500px; /* Approximate height */
 }
 
 .project-card {
@@ -509,7 +509,7 @@ a {
     display: flex;
     justify-content: center;
     gap: 0.5rem;
-    margin-top: 2rem;
+    margin-top: -4rem;
 }
 
 .indicator {
